@@ -29,4 +29,4 @@
 ---
 
 ## 👨‍💻 Developer
-**Mehul Kumar** *Electronics and Communication Engineering Student* [LinkedIn Profile](https://www.linkedin.com/in/YOUR_LINK) | [Portfolio]
+**Mehul Kumar** *Electronics and Communication Engineering Student* [LinkedIn Profile]https://www.linkedin.com/in/mehul-kumar1233?utm_source=share_via&utm_content=profile&utm_medium=member_android
